@@ -1,0 +1,32 @@
+.axis-tick-mark {
+    -fx-stroke: #637040;
+    -fx-stroke: black;
+    -fx-stroke-width: 3;
+}
+.axis-minor-tick-mark {
+    -fx-stroke: #859656;
+    -fx-stroke: black;
+}
+.chart-plot-background{
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 4px;
+    -fx-border-insets: 0 0 0 1;
+}
+.chart {
+	-fx-horizontal-zero-line-visible:	false;
+	-fx-vertical-zero-line-visible:		false;
+}
+
+.default-color0.chart-line-symbol {
+    -fx-background-color: white, green;
+}
+.default-color1.chart-line-symbol {
+    -fx-background-color: transparent, transparent;
+}
+.default-color0.chart-legend-item-symbol{
+    -fx-background-color: green;
+ }
+.default-color1.chart-legend-item-symbol{
+    -fx-background-color: red;
+ }

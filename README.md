@@ -1,5 +1,5 @@
 # DataViliJ
-Computer Science III homework project
+Computer Science III homework project \n
 
 Example data format
 @A  Set1  15,20
